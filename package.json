@@ -12,6 +12,9 @@
   "name": "mock-server",
   "version": "1.0.0",
   "main": "server.js",
+  "engines": {
+    "node": "14.x"
+  },
   "scripts": {
     "generate": "node generateData.js > db.json",
     "dev": "NODE_ENV=development node server.js",
