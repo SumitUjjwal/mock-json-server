@@ -876,6 +876,16 @@
       "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/304.jpg",
       "createdAt": 1671349472625,
       "id": 55
+    },
+    {
+      "username": "SumitUjjwal",
+      "password": "$2b$10$6OdMhvqKy8hbwxtAYJQmp.yQL9hemdq8JL74Lx6M5gAEg9xWb.z92",
+      "email": "admin@mail.com",
+      "firstname": "Ad",
+      "lastname": "Minister",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/762.jpg",
+      "createdAt": 1685166610715,
+      "id": 56
     }
   ],
   "user_status": [],
